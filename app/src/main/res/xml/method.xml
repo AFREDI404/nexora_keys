@@ -3,4 +3,8 @@
         android:label="English"
         android:imeSubtypeLocale="en_US"
         android:imeSubtypeMode="keyboard" />
+    <subtype
+        android:label="Bangla"
+        android:imeSubtypeLocale="bn_BD"
+        android:imeSubtypeMode="keyboard" />
 </input-method>
